@@ -1,6 +1,8 @@
-# VSPK Documentation
+# VSPK
 
-Find out how to use the Nuage Networks' VSP SDK
+VSPK is a Python SDK for [Nuage VSP Platform](http://www.nuagenetworks.net/products/virtualized-services-platform/)
+
+Learn how to use it from our [complete documentation](http://nuagenetworks.github.io/vspkdoc/index.html)
 
 
 # License
