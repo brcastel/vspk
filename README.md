@@ -1,3 +1,11 @@
+
+This repository contains a fully generated VSPK.
+To get a local copy of the latest VSPK, it is recommended to use the VSPKGenerator (https://github.com/nuagenetworks/vspkgenerator)
+or to install it directly from the PIP repository :
+
+	pip install vspk
+
+
 # VSPK
 
 VSPK is a Python SDK for [Nuage VSP Platform](http://www.nuagenetworks.net/products/virtualized-services-platform/)
